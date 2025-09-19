@@ -1,6 +1,9 @@
-`**APIs:**`
+`APIs:`
 
 **Fetches data on all countries** - https://openapi.programming-hero.com/api/all
+<br>
 **Fetches data about a country by its ISO alpha-code (e.g. 116)** - https://openapi.programming-hero.com/api/alpha/116
+<br>
 **Fetches countries where the specified language is spoken** - https://openapi.programming-hero.com/api/lang/english
+<br>
 **Fetches data on a country (or countries) by its common name** - https://openapi.programming-hero.com/api/name/bangladesh
